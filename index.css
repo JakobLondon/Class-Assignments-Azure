@@ -7,13 +7,26 @@ body  {
 }
     div {
         width: 70vw;
+        line-height: 50px;
 }
-    h3 {
+    #top-box{
+        background-color: #fcf2ee;
+        border-style: groove;
+        margin-top: 3vw;
+    }
+    #center-box {
+        position:absolute;
+        margin: auto;
+        background-color: #fcf2ee;
+        border-style: groove;
+        margin-top: 3vw;
+        padding-bottom: 15vw;
+    }
+    #link-paragraph {
         font-size: 30px;
-}
-    p {
-        font-size: 20px;
-}
+    }
     ul {
-        font-size: 20px;
+        font-size: 1.7vw;
+        line-height: 3vw;
+        padding-left: 10vw;
 }
