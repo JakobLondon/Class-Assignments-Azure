@@ -1,0 +1,19 @@
+body  {
+        background-color: #eef8fc;
+        margin-right: 15vw;
+        margin-left: 15vw;
+        margin-top:4vw;
+        margin-bottom:6vw;
+}
+    div {
+        width: 70vw;
+}
+    h3 {
+        font-size: 30px;
+}
+    p {
+        font-size: 20px;
+}
+    ul {
+        font-size: 20px;
+}
