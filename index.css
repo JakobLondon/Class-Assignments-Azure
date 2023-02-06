@@ -1,5 +1,5 @@
 body  {
-        background-color: #eef8fc;
+        background-color: #f8fdff;
         margin-right: 15vw;
         margin-left: 15vw;
         margin-top:4vw;
@@ -10,14 +10,14 @@ body  {
         line-height: 50px;
 }
     #top-box{
-        background-color: #fcf2ee;
+        background-color: #fff6f3;
         border-style: groove;
         margin-top: 3vw;
     }
     #center-box {
         position:absolute;
         margin: auto;
-        background-color: #fcf2ee;
+        background-color: #fff6f3;
         border-style: groove;
         margin-top: 3vw;
         padding-bottom: 15vw;
